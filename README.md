@@ -17,3 +17,17 @@
 1. Clone o repositório:
    ```bash
    git clone https://github.com/otosales/secret-number.git
+
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/3a07fee3-e847-4dcd-84f4-8c5d60441b79)
+
+![image](https://github.com/user-attachments/assets/156672a6-9405-4960-be27-c946d5dbbaf1)
+
+![image](https://github.com/user-attachments/assets/dc1a7310-ae09-4ef0-b96b-4deba6a6f2a1)
+
+![image](https://github.com/user-attachments/assets/c9fcfbc0-853d-4593-ab2a-6cc0bcb15b8e)
+
+
+## 📚 Melhorias Futuras
+- Implementar níveis de dificuldade.
+- Adicionar um sistema de pontuação.
